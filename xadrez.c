@@ -30,7 +30,7 @@ int main() {
     // Implementação de Movimentação da Rainha
     // Sugestão: Utilize uma estrutura de repetição para simular a movimentação da Rainha para a esquerda.
     printf("\nMovimentos da Rainha:\n");
-    for (int rainha = 0; rainha < 8; rainha++) {
+    for (int rainha = 0; rainha < casasRainha; rainha++) {
         printf("Esquerda\n");
     }
     // Nível Aventureiro - Movimentação do Cavalo
